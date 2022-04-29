@@ -1,0 +1,2 @@
+# A Minute Math
+This program is a simple project that challenges the users to solve as many basic arithmetic problems in under a minute. The numbers and operator are random, making it challenging and different every time.
